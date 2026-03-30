@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hi there 👋 I'm Shahriyar Abid
 
-<!--
-**shahriyarabid/shahriyarabid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science & Engineering graduate passionate about data and technology  
+💼 Actively seeking entry-level opportunities in Data Analysis / Web Development / Business Analysis 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🔭 Currently working on: Real-world data analysis & web projects  
+- 🌱 Currently learning: Advanced SQL, Python, and Power BI  
+- 👯 Looking to collaborate on: Open-source & data-driven projects  
+- 🤔 Looking for help with: Industry-level project experience  
+- 💬 Ask me about: Python, SQL, Data Visualization  
+- 📫 How to reach me: Shahriyarabid15@gmail.com  
+- ⚡ Fun fact: I enjoy turning raw data into meaningful insights  
+
+---
+
+### 🛠️ Skills
+- 💻 Languages: Python, JavaScript  
+- 🗄️ Database: SQL  
+- 📊 Tools: Power BI, Excel  
+- 🌐 Web: HTML, CSS  
+
+
+### 🤝 Let's Connect
+- LinkedIn: https://linkedin.com/in/shahriyarabid  
+- Portfolio: https://shahriyarabid.github.io/
