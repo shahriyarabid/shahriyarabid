@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Shahriyar Abid
+## Hi there I'm Shahriyar Abid
 
 🎓 Computer Science & Engineering graduate passionate about data and technology  
 💼 Actively seeking entry-level opportunities in Data Analysis / Web Development / Business Analysis 
