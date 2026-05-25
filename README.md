@@ -5,22 +5,22 @@
 
 ---
 
-### 🚀 About Me
-- 🔭 Currently working on: Real-world data analysis & web projects  
-- 🌱 Currently learning: Advanced SQL, Python, and Power BI  
-- 👯 Looking to collaborate on: Open-source & data-driven projects  
-- 🤔 Looking for help with: Industry-level project experience  
-- 💬 Ask me about: Python, SQL, Data Visualization  
-- 📫 How to reach me: Shahriyarabid15@gmail.com  
-- ⚡ Fun fact: I enjoy turning raw data into meaningful insights  
+###  About Me
+- Currently working on: Real-world data analysis & web projects  
+- Currently learning: Advanced SQL, Python, and Power BI  
+- Looking to collaborate on: Open-source & data-driven projects  
+- Looking for help with: Industry-level project experience  
+- Ask me about: Python, SQL, Data Visualization  
+- How to reach me: Shahriyarabid15@gmail.com  
+- Fun fact: I enjoy turning raw data into meaningful insights  
 
 ---
 
-### 🛠️ Skills
-- 💻 Languages: Python, JavaScript  
+### Skills
+- 💻 Languages: Python, JavaScript , HTML5, CSS3 
 - 🗄️ Database: SQL  
-- 📊 Tools: Power BI, Excel  
-- 🌐 Web: HTML, CSS  
+- 📊 Tools: Power BI, Excel, Google Colab 
+ 
 
 
 ### 🤝 Let's Connect
